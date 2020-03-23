@@ -1,3 +1,5 @@
 # HabboIM-Emulator LICENCE
 
-webadress/URL (example: webadress/www.habbo.im)
+
+-> AssemblyInfo.cs
+    -> AssemblyConfiguration("HOTELURL")] 
