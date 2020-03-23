@@ -1,3 +1,3 @@
-#Licence System for HabboIM Emulator
+##Licence System for HabboIM Emulator
 
 webadress/URL (example: webadress/www.habbo.im)
