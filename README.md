@@ -13,4 +13,5 @@ EXAMPLE:
 ```
 
 www.habbo.im -> send version to emulator
-www.habbo.im2 -> command (start|stop) if start = emulator can starting | if false = emulator cant starting
+
+www.habbo.im2 -> command (1|0) if 1 = emulator can starting | if 0 = emulator cant starting
