@@ -8,7 +8,7 @@ This steps are required to release HabboIM Emulator:
 
 **EMULATOR:**
 
--> Programm.cs
+-> HabboIM.cs
 
 ```
      
